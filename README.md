@@ -3,9 +3,10 @@
 #Background
 
 
-##Analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Next, determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, determine which day and week had the highest sales for women's athletic footwear.
+#Analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Next, determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, determine which day and week had the highest sales for women's athletic footwear.
 
-1. Combine and Clean the Data
+
+Combine and Clean the Data
 Import the two CSV files, athletic_sales_2020.csv and athletic_sales_2021.csv, and read them into DataFrames.
 
 The column titles for athletic_sales_2020.csv are:
